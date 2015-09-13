@@ -3,17 +3,16 @@ code_quiz
 =========
 
 
-Add a short description here!
+Notes and code for a few of the code tests I've come across in the past few years
 
 
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
+* docs/brain teasers.md -- some notes from a python user group project night discussion
+* docs/Data Science...Questions -- some notes on questions asked of me recently
+* code_quiz/pairup -- some algorithm optimization and a 2-element knapsack problem
+* code_quiz/sidetest -- a graph search problem (zipcodes and products) in python
+* code_quiz/relevant -- a simple NLP problem in python
 
 
-Note
-====
-
-This project has been set up using PyScaffold 2.3. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.
